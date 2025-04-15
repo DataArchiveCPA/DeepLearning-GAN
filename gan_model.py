@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-
+import tensorflow as tf
 from tensorflow.keras.models import Model
 
 class GAN(Model):
